@@ -1,6 +1,6 @@
 ## Live demo
 
-Visit [campaign-demo.vercel.app](campaign-demo.vercel.app)
+Visit [campaign-demo-mu.vercel.app](campaign-demo-mu.vercel.app)
 
 ## To run locally
 
